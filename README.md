@@ -113,15 +113,13 @@ jupyter notebook main_sunglass.ipynb
 
 ## Results
 
-| Step | Output |
-|------|--------|
-| Original face | `pic.jpeg` loaded and displayed |
-| Naive overlay | Sunglass placed directly — no transparency handling |
-| Masked eye region | Eye pixels removed where glass will sit |
-| Masked glass region | Glass pixels kept only in opaque areas |
-| **Final result** | Clean, alpha-blended sunglass on the face |
+![alt text](image.png)
 
----
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 ## References
 
