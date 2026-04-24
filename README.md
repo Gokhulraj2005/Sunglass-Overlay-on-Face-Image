@@ -2,19 +2,6 @@
 
 A computer vision project that overlays a sunglass PNG onto a face image using OpenCV — demonstrating both naive pixel replacement and alpha-mask-based compositing techniques.
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Results](#results)
-
----
 
 ## Overview
 
